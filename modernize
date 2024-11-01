@@ -6,3 +6,7 @@ document.body.innerHTML = document.body.innerHTML.replace(/slang/g, 'brainrot');
 document.body.innerHTML = document.body.innerHTML.replace(/Slang/g, 'Brainrot');
 document.body.innerHTML = document.body.innerHTML.replace(/nerd/g, 'Luke Mulrooney');
 document.body.innerHTML = document.body.innerHTML.replace(/Nerd/g, 'Luke Mulrooney');
+document.body.innerHTML = document.body.innerHTML.replace(/stuff/g, 'jawn');
+document.body.innerHTML = document.body.innerHTML.replace(/Stuff/g, 'Jawn');
+document.body.innerHTML = document.body.innerHTML.replace(/job/g, 'jawn');
+document.body.innerHTML = document.body.innerHTML.replace(/Job/g, 'Jawn');
